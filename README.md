@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 my name is Alessandro Gianfelici</h1>
+<h1 align="center">Hi there!👋 My name is Alessandro Gianfelici👋 </h1>
 <h3 align="center">Passionate about python, machine learning and functional programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrogianfelici&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrogianfelici" /> </p>
