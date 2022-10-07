@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, Quantitative Finance**
 
-- 📫 How to reach me **alessandro.gianfelici@hotmail.com**
+- 📫 Reach me here: **alessandro.gianfelici@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
